@@ -4,6 +4,6 @@
 
 [mindtwo](https://www.mindtwo.de) is your software design and engineering partner that helps you build successful tech products
 
-**Imprint & Pricacy Policy:**
+**Imprint & Privacy Policy:**
 
 [https://wonderl.ink/@mindtwo](https://wonderl.ink/@mindtwo)
